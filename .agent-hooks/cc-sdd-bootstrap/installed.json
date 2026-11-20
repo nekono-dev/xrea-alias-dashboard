@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "bootstrapVersion": "0.1.0",
+  "files": {
+    ".agent-hooks/cc-sdd-bootstrap/install-cc-sdd.sh": {
+      "kind": "common",
+      "sha256": "d0ebfd7c352540b9deb6810840f9ac3093a3bfd8eb41f8eca025a66cb1abb8f4"
+    },
+    ".agent-hooks/cc-sdd-bootstrap/install-gate.mjs": {
+      "kind": "common",
+      "sha256": "30d119704453b1e4d9cebf71f61070b5665ed7c80de6f4a214e6d7135b58e7f9"
+    }
+  }
+}
