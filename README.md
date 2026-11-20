@@ -39,9 +39,6 @@ XREA のメール転送アドレス（エイリアス）を、ワンボタンで
 | `web` | 画面（Preact。ブラウザ標準の部品は使わず、すべて独自の部品で構成）と、PWA の宣言・アイコン・Service Worker |
 | `api` | 公式ドキュメントの基準・補正定義・生成した OpenAPI |
 | `docs` | 配備の手順書 |
-| `specs` | 仕様書（要件定義・設計・タスク） |
-
-仕様書は `specs/<コンポーネント>/` にあり、`npm run lint:spec` で検査します。
 
 ## 導入の前に用意するもの
 
@@ -137,7 +134,6 @@ npm run dev
 npm run typecheck        # 型チェック
 npm test                 # 単体テスト
 npx playwright test      # 画面のブラウザテスト（ヘッドレス）
-npm run lint:spec        # 仕様書の検査
 ```
 
 ### 4. ビルドする
