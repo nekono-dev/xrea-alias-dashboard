@@ -1,1 +1,1 @@
-{"baseBranch":"develop","maxNameLength":54,"namePattern":"^dev/[a-z0-9]+(-[a-z0-9]+)*$","preview":{"provider":"none"},"protectedBranches":["main"],"workBranches":["develop","dev/*"]}
+{"baseBranch":"main","maxNameLength":54,"namePattern":"^dev/[a-z0-9]+(-[a-z0-9]+)*$","preview":{"provider":"none"},"protectedBranches":["main"],"workBranches":["dev/*"]}
