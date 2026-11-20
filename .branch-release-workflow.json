@@ -1,0 +1,1 @@
+{"baseBranch":"main","maxNameLength":54,"namePattern":"^dev/[a-z0-9]+(-[a-z0-9]+)*$","preview":{"provider":"none"},"protectedBranches":["main"],"workBranches":["dev/*"]}
