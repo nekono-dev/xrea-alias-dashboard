@@ -7,3 +7,9 @@ playwright-report/
 .gcloud
 .docker/
 wrangler.jsonc
+
+# >>> cc-sdd-bootstrap（この区画は cc-sdd-bootstrap が管理する）
+.claude/skills/kiro-*/
+.kiro/settings/
+/.cache/cc-sdd-install.failed
+# <<< cc-sdd-bootstrap
